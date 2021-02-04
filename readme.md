@@ -1,1 +1,1 @@
-ickt 35 demo
+ickt 爱创乐育是爱创课堂旗下前端教育品牌 35 demo
